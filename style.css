@@ -1,0 +1,48 @@
+body{
+    min-width: 500px;
+    background-color: grey;
+}
+.ProfileBody{
+    background-color: navajowhite;
+    margin-top: 6px;
+    margin-left: 55px;
+    margin-bottom: 6px;
+    width:75%;
+    height: 590px;
+}
+#name h1{
+    color:grey
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 5px;
+    word-spacing: 0.2em;
+    
+}
+#name h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 0.5em;
+    text-transform: capitalize;
+}
+ul{
+    
+    list-style-position: outside;
+    list-style-type: circle;
+    font-family: monospace;
+}
+p{
+    text-transform: uppercase;
+    color: black;
+}
+a{
+    
+    color:red;
+}
+a:hover{
+    background-color: rosybrown;
+    border: 1px solid black;
+}
+hr{
+    
+    color: black;
+    margin-left: 2mm;
+    margin-right: 3mm;
+}
